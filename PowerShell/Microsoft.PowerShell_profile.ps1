@@ -1,6 +1,6 @@
 ﻿
 # Load posh-git example profile
-. 'C:\Users\dryhurst-smithj.ADASTRA\Documents\WindowsPowerShell\Modules\posh-git\profile.example.ps1'
+#. 'C:\Users\jdryh\Documents\WindowsPowerShell\Modules\posh-git\profile.example.ps1'
 
 #First in your powershell profile in
 #C:\Users\<<username>>\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
