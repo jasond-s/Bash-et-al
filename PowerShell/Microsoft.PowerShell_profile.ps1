@@ -12,6 +12,8 @@
 #     "$(split-path "$pwd" -leaf -resolve) $lastexitcode $Global:GitStatus #>"
 # } 
 
+Set-PSReadlineOption -BellStyle None
+
 try {
     Import-Module posh-git
 }
