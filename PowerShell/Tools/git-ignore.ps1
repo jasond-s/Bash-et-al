@@ -1,1 +1,1 @@
-git ls-files -i --exclude-from=.gitignore | ForEach-Object{git rm --cached $_}
+git ls-files -i -o --exclude-from=.gitignore | ForEach-Object{git rm --cached $_}
